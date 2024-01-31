@@ -1,4 +1,5 @@
-### Hi I'm João! A student Passionate about technology willing to learn all kinds of language and things related to technology, Currently in the Computer Engineering Course.
+### Hi I'm João!
+A student Passionate about technology willing to learn all kinds of language and things related to technology, Currently in the Computer Engineering Course.
 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jopei__/)
